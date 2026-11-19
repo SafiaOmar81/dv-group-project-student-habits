@@ -1,0 +1,47 @@
+age_group,year_of_study,field_of_study,sleep_duration,sleep_quality,bedtime,screen_time,screen_activity,reduce_screen_time,productivity,focus_hours,screen_distraction,productivity_factor,caffeine,average_grade
+22-25,3rd / Final,"Business, Economics, Finance",7-8,6,12am-2am,4 - 6 hours,"Social Media (eg. Instagram, TikTok)","Yes, aiming to reduce by ~25%",5,3 - 4 hours,Occasionally,procrastinating,Never,50-59
+18-21,2nd,"Humanities, Social Sciences, Arts",9+,7,12am-2am,7 - 9 hours,"Social Media (eg. Instagram, TikTok)","Yes, aiming to reduce by ~50%",4,3 - 4 hours,Often,Doomscrolling ,Several times a week,60-69
+22-25,Postgrad/Masters/PhD,"Medicine, Healthcare, Life Sciences",8-9,4,10pm-12am,7 - 9 hours,"Video Streaming (eg. YouTube, Netflix)","Yes, aiming to reduce by ~50%",5,> 6 hours,Often,Grades,Daily,60-69
+25<,Postgrad/Masters/PhD,"Humanities, Social Sciences, Arts",6-7,4,12am-2am,7 - 9 hours,"Social Media (eg. Instagram, TikTok)","Yes, aiming to reduce by ~25%",5,3 - 4 hours,Occasionally,,Never,50-59
+18-21,Postgrad/Masters/PhD,"Business, Economics, Finance",6-7,4,12am-2am,7 - 9 hours,"Social Media (eg. Instagram, TikTok)","Yes, aiming to reduce by ~25%",4,3 - 4 hours,Often,,Never,60-69
+22-25,3rd / Final,STEM,6-7,7,10pm-12am,4 - 6 hours,"Social Media (eg. Instagram, TikTok)","Yes, aiming to reduce by ~25%",6,3 - 4 hours,Often,Checking my phone every few mins ,Daily,60-69
+22-25,2nd,"Humanities, Social Sciences, Arts",6-7,4,10pm-12am,7 - 9 hours,"Video Streaming (eg. YouTube, Netflix)","Yes, aiming to reduce by ~25%",4,1 - 2 hours,Always,Adhd,Daily,60-69
+18-21,3rd / Final,"Humanities, Social Sciences, Arts",7-8,5,10pm-12am,4 - 6 hours,"Social Media (eg. Instagram, TikTok)","Yes, aiming to reduce by ~25%",5,< 1 hour,Often,,Weekly (or less),
+18-21,3rd / Final,"Humanities, Social Sciences, Arts",7-8,9,10pm-12am,7 - 9 hours,"Social Media (eg. Instagram, TikTok)","Yes, aiming to reduce by ~25%",4,3 - 4 hours,Always,procrastination ,Weekly (or less),70-79
+18-21,3rd / Final,"Humanities, Social Sciences, Arts",6-7,4,10pm-12am,10 - 12 hours,"Video Streaming (eg. YouTube, Netflix)","Yes, aiming to reduce by ~25%",7,3 - 4 hours,Often,The dopamine rush triggered by social media usage,Weekly (or less),60-69
+18-21,2nd,"Humanities, Social Sciences, Arts",7-8,4,After 2am,10 - 12 hours,Gaming,"Yes, aiming to reduce by ~25%",5,5 - 6 hours,Occasionally,Waking hours,Never,70-79
+18-21,Postgrad/Masters/PhD,"Business, Economics, Finance",8-9,8,10pm-12am,4 - 6 hours,Messaging & Calling,"Yes, aiming to reduce by ~25%",7,3 - 4 hours,Occasionally,"How I slept, mood, if I like what I’m working on",Never,60-69
+22-25,3rd / Final,Other,5-6,4,Before 10pm,10 - 12 hours,"Video Streaming (eg. YouTube, Netflix)","Yes, aiming to reduce by ~25%",8,5 - 6 hours,Rarely,Music ,Never,60-69
+<18,3rd / Final,STEM,6-7,4,12am-2am,> 12  hours,"Video Streaming (eg. YouTube, Netflix)","Yes, aiming to reduce by ~50%",2,< 1 hour,Always,Phone notifications distracting,Never,60-69
+18-21,Postgrad/Masters/PhD,"Humanities, Social Sciences, Arts",6-7,4,12am-2am,4 - 6 hours,"Social Media (eg. Instagram, TikTok)","Yes, aiming to reduce by ~50%",6,3 - 4 hours,Often,,Weekly (or less),80+
+18-21,3rd / Final,STEM,8-9,5,10pm-12am,7 - 9 hours,Messaging & Calling,"Yes, aiming to reduce by ~75%",5,3 - 4 hours,Often,Dw,Several times a week,60-69
+18-21,3rd / Final,STEM,6-7,4,10pm-12am,4 - 6 hours,"Social Media (eg. Instagram, TikTok)","Yes, aiming to reduce by ~50%",6,1 - 2 hours,Often,Conversation ,Weekly (or less),60-69
+18-21,3rd / Final,STEM,7-8,5,10pm-12am,> 12  hours,Gaming,"Yes, aiming to reduce by ~25%",6,1 - 2 hours,Often,Procrastination ,Several times a week,70-79
+25<,Postgrad/Masters/PhD,Other,6-7,6,After 2am,4 - 6 hours,"Social Media (eg. Instagram, TikTok)","Yes, aiming to reduce by ~50%",7,5 - 6 hours,Occasionally,Apps notifications ,Several times a week,70-79
+18-21,3rd / Final,STEM,6-7,6,12am-2am,4 - 6 hours,Gaming,No intention to reduce,5,1 - 2 hours,Occasionally,,Multiple times daily,80+
+18-21,Postgrad/Masters/PhD,Other,6-7,4,12am-2am,7 - 9 hours,"Video Streaming (eg. YouTube, Netflix)","Yes, aiming to reduce by ~50%",3,1 - 2 hours,Often,,Weekly (or less),70-79
+22-25,3rd / Final,STEM,7-8,7,12am-2am,4 - 6 hours,"Video Streaming (eg. YouTube, Netflix)","Yes, aiming to cut to the absolute bare minimum",1,< 1 hour,Always,,Never,70-79
+18-21,Postgrad/Masters/PhD,Other,6-7,8,10pm-12am,7 - 9 hours,"Social Media (eg. Instagram, TikTok)",No intention to reduce,5,1 - 2 hours,Always,,Daily,50-59
+18-21,3rd / Final,STEM,7-8,6,10pm-12am,4 - 6 hours,"Video Streaming (eg. YouTube, Netflix)","Yes, aiming to reduce by ~50%",5,1 - 2 hours,Occasionally,,Multiple times daily,50-59
+18-21,3rd / Final,STEM,6-7,4,10pm-12am,7 - 9 hours,"Social Media (eg. Instagram, TikTok)","Yes, aiming to reduce by ~50%",6,1 - 2 hours,Occasionally,Doomscrolling ,Weekly (or less),60-69
+18-21,2nd,"Medicine, Healthcare, Life Sciences",7-8,7,12am-2am,7 - 9 hours,"Social Media (eg. Instagram, TikTok)","Yes, aiming to reduce by ~25%",5,3 - 4 hours,Often,,Daily,80+
+25<,3rd / Final,STEM,7-8,8,10pm-12am,10 - 12 hours,"Social Media (eg. Instagram, TikTok)","Yes, aiming to reduce by ~25%",7,5 - 6 hours,Rarely,fatigue,Never,70-79
+25<,Postgrad/Masters/PhD,"Humanities, Social Sciences, Arts",9+,9,Before 10pm,> 12  hours,Gaming,"Yes, aiming to reduce by ~25%",8,> 6 hours,Rarely,maybe environment,Never,70-79
+25<,Postgrad/Masters/PhD,STEM,8-9,10,Before 10pm,10 - 12 hours,Other,"Yes, aiming to reduce by ~25%",10,3 - 4 hours,Occasionally,Environment,Several times a week,60-69
+22-25,3rd / Final,STEM,5-6,4,12am-2am,> 12  hours,Gaming,"Yes, aiming to cut to the absolute bare minimum",5,1 - 2 hours,Often,,Never,
+22-25,Postgrad/Masters/PhD,"Humanities, Social Sciences, Arts",6-7,7,10pm-12am,4 - 6 hours,"Video Streaming (eg. YouTube, Netflix)","Yes, aiming to reduce by ~25%",4,1 - 2 hours,Always,Phone,Never,70-79
+25<,3rd / Final,STEM,7-8,7,Before 10pm,7 - 9 hours,"Social Media (eg. Instagram, TikTok)","Yes, aiming to reduce by ~25%",7,1 - 2 hours,Often,Lack of motivation,Several times a week,70-79
+18-21,3rd / Final,STEM,5-6,5,After 2am,4 - 6 hours,Messaging & Calling,"Yes, aiming to reduce by ~50%",5,3 - 4 hours,Often,My phone 😓,Weekly (or less),70-79
+22-25,3rd / Final,STEM,8-9,8,10pm-12am,7 - 9 hours,"Video Streaming (eg. YouTube, Netflix)","Yes, aiming to reduce by ~25%",7,3 - 4 hours,Rarely,,Several times a week,60-69
+25<,Postgrad/Masters/PhD,STEM,5-6,4,10pm-12am,> 12  hours,"Video Streaming (eg. YouTube, Netflix)",No intention to reduce,5,> 6 hours,Occasionally,Tiredness ,Daily,60-69
+25<,3rd / Final,STEM,7-8,5,10pm-12am,< 1 - 3 hours,"Social Media (eg. Instagram, TikTok)","Yes, aiming to reduce by ~25%",6,1 - 2 hours,Often,Tiredness. ,Never,60-69
+<18,,"Business, Economics, Finance",7-8,8,12am-2am,4 - 6 hours,"Social Media (eg. Instagram, TikTok)","Yes, aiming to reduce by ~25%",1,< 1 hour,Often,How much sleep i got the night before,Never,80+
+18-21,3rd / Final,STEM,6-7,5,12am-2am,10 - 12 hours,"Video Streaming (eg. YouTube, Netflix)","Yes, aiming to reduce by ~25%",1,< 1 hour,Always,Electronics ,Never,60-69
+<18,Postgrad/Masters/PhD,"Business, Economics, Finance",6-7,1,12am-2am,4 - 6 hours,"Social Media (eg. Instagram, TikTok)",No intention to reduce,1,< 1 hour,Always,Devices,Never,60-69
+25<,Postgrad/Masters/PhD,"Business, Economics, Finance",6-7,5,12am-2am,> 12  hours,"Video Streaming (eg. YouTube, Netflix)","Yes, aiming to reduce by ~75%",8,3 - 4 hours,Rarely,Messages ,Weekly (or less),70-79
+25<,Postgrad/Masters/PhD,"Business, Economics, Finance",6-7,7,10pm-12am,< 1 - 3 hours,"Social Media (eg. Instagram, TikTok)",No intention to reduce,7,5 - 6 hours,Always,Procrastinating ,Never,80+
+25<,Postgrad/Masters/PhD,Other,6-7,7,Before 10pm,4 - 6 hours,"Social Media (eg. Instagram, TikTok)","Yes, aiming to reduce by ~25%",9,3 - 4 hours,Occasionally,Poor focus and not having motivation ,Never,80+
+25<,Postgrad/Masters/PhD,Other,7-8,7,12am-2am,< 1 - 3 hours,"Social Media (eg. Instagram, TikTok)",No intention to reduce,8,> 6 hours,Often,Browsing through social media and gaming,Never,60-69
+25<,Postgrad/Masters/PhD,"Business, Economics, Finance",7-8,8,10pm-12am,4 - 6 hours,"Video Streaming (eg. YouTube, Netflix)","Yes, aiming to reduce by ~25%",7,1 - 2 hours,Rarely,Distractions ,Never,70-79
+22-25,Postgrad/Masters/PhD,STEM,5-6,7,12am-2am,4 - 6 hours,"Video Streaming (eg. YouTube, Netflix)","Yes, aiming to reduce by ~50%",9,5 - 6 hours,Occasionally,Phone,Never,80+
+25<,3rd / Final,STEM,6-7,9,10pm-12am,> 12  hours,"Video Streaming (eg. YouTube, Netflix)",No intention to reduce,7,1 - 2 hours,Occasionally,Self drive but mostly from distractions from watching videos ,Several times a week,60-69
